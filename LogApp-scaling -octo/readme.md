@@ -14,12 +14,15 @@ This repo is for Practice Set 5-06
 
 ### Visuals
 *Registration*
+
 ![Registration](https://user-images.githubusercontent.com/112542672/232824748-71e5ef69-5af2-4c36-8490-e0a655753faa.png)
 
 *Admin Login*
+
 ![login](https://user-images.githubusercontent.com/112542672/232825100-b036bf18-9124-423b-b9ac-0f54d76e041c.png)
 
 *Table of Data Collected from Registration*
+
 ![regi_list](https://user-images.githubusercontent.com/112542672/232825300-f33b700a-f9df-4f9e-ab4c-bcc5a944d921.png)
 
 ### Installation
@@ -33,8 +36,15 @@ This repo is for Practice Set 5-06
 
 ### Authors
 *Elaine Mae llacuna*
+
 ![elaine](https://user-images.githubusercontent.com/112542672/232825930-3078588c-2e40-496f-a6d8-bd23ab675f4f.jpg)
+
+
 *David Frank Edison*
+
 ![david](https://user-images.githubusercontent.com/112542672/232826154-8639d525-d8d1-4061-928a-1617d5f82fa1.jpg)
+
+
 *Arman Vicente*
+
 ![arman](https://user-images.githubusercontent.com/112542672/232826217-39267908-a02b-47b4-b8ac-0df218b3881b.jpg)
